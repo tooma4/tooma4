@@ -8,8 +8,7 @@
 Разработка привлекла меня как способ соединить логику, дизайн и реальную пользу в одном процессе — с тех пор непрерывно развиваюсь в этом направлении.
 Опыт, полученный на предыдущих местах работы, научил меня расставлять приоритеты, ясно объяснять сложные вещи и понимать потребности пользователей. Эти навыки я применяю в своей работе: я думаю о продукте с точки зрения пользователя и быстро адаптируюсь к новым задачам и технологиям.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@cronictix-blue?style=for-the-badge&logo=telegram)](https://t.me/yourusername) [![Gmail Badge](https://img.shields.io/badge/Gmail-romanstarshinovdev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=romanstarshinovdev@gmail.com)
- [![Yandex Mail Badge](https://img.shields.io/badge/Yandex-padoshvars@yandex.ru-yellow?style=for-the-badge&logo=yandex&logoColor=black)](https://mail.yandex.ru/compose?to=padoshvars@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@cronictix-blue?style=for-the-badge&logo=telegram)](https://t.me/yourusername) [![Gmail Badge](https://img.shields.io/badge/Gmail-romanstarshinovdev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=romanstarshinovdev@gmail.com)[![Yandex Mail Badge](https://img.shields.io/badge/Yandex-padoshvars@yandex.ru-yellow?style=for-the-badge&logo=yandex&logoColor=black)](https://mail.yandex.ru/compose?to=padoshvars@yandex.ru)
 
  ---
 
